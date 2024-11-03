@@ -3,7 +3,7 @@
 
 In Umber, the echoes of ancient empires and forgotten gods linger beneath every stone and shadow. Magic is real but rare, and the line between good and evil is blurred by the weight of history and human ambition. Adventurers seek to do good (or gain) in a world scarred by the passage of time, where the ruins of past glory stand as reminders that even the greatest ideals can falter. With expanded character customization and a focus on gritty, personal stories, Umber strikes a balance between the mythic grandeur of high fantasy and the grounded, dangerous allure of sword and sorcery.
 
-# Additional Mechanics
+# Mechanics
 Characters are created using the standard SOLAS method. However, there are a few new options to keep in mind when doing so: spellcasting, as well as additional abilities, called Boons.
 
 ## Spells
